@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127830002579",
+    "project_id": "moniai-1a6be",
+    "storage_bucket": "moniai-1a6be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127830002579:android:f07b494a9a8b1d0e167666",
+        "android_client_info": {
+          "package_name": "com.example.moni_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvVJWHdCqipf3c8QP2TSH-lhoLjBmM90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

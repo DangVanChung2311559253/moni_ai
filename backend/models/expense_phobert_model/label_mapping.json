@@ -1,0 +1,22 @@
+{
+  "label2id": {
+    "Di chuyển": 0,
+    "Giáo dục": 1,
+    "Giải trí": 2,
+    "Hóa đơn": 3,
+    "Khác": 4,
+    "Mua sắm": 5,
+    "Y tế": 6,
+    "Ăn uống": 7
+  },
+  "id2label": {
+    "0": "Di chuyển",
+    "1": "Giáo dục",
+    "2": "Giải trí",
+    "3": "Hóa đơn",
+    "4": "Khác",
+    "5": "Mua sắm",
+    "6": "Y tế",
+    "7": "Ăn uống"
+  }
+}

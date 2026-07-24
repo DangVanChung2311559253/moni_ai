@@ -1,0 +1,49 @@
+{
+  "_name_or_path": "vinai/phobert-base-v2",
+  "architectures": [
+    "RobertaForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": 0,
+  "classifier_dropout": null,
+  "eos_token_id": 2,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "Di chuy\u1ec3n",
+    "1": "Gi\u00e1o d\u1ee5c",
+    "2": "Gi\u1ea3i tr\u00ed",
+    "3": "H\u00f3a \u0111\u01a1n",
+    "4": "Kh\u00e1c",
+    "5": "Mua s\u1eafm",
+    "6": "Y t\u1ebf",
+    "7": "\u0102n u\u1ed1ng"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "Di chuy\u1ec3n": 0,
+    "Gi\u00e1o d\u1ee5c": 1,
+    "Gi\u1ea3i tr\u00ed": 2,
+    "H\u00f3a \u0111\u01a1n": 3,
+    "Kh\u00e1c": 4,
+    "Mua s\u1eafm": 5,
+    "Y t\u1ebf": 6,
+    "\u0102n u\u1ed1ng": 7
+  },
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 258,
+  "model_type": "roberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 1,
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "tokenizer_class": "PhobertTokenizer",
+  "torch_dtype": "float32",
+  "transformers_version": "4.44.2",
+  "type_vocab_size": 1,
+  "use_cache": true,
+  "vocab_size": 64001
+}
